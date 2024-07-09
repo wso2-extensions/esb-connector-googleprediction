@@ -1,0 +1,21 @@
+{
+    "name": "Google Prediction",
+    "owner": "WSO2",
+    "category": "Developer Tools",
+    "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Google+Prediction+Connector",
+    "description": "The Google Prediction connector allows you to access the exposed Google Predictions REST API through the WSO2 ESB. The Google Prediction API provides pattern matching and machine learning capabilities.",
+    "status": "Unsupported",
+    "labels": [
+        "connector"
+    ],
+    "releases": [
+        {
+            "tagName": "v1.0.0",
+            "products": [
+                "ESB 4.9.0",
+                "ESB 5.0.0"
+            ],
+            "isHidden": false
+        }
+    ]
+}
